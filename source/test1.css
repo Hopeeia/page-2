@@ -4,9 +4,27 @@ body
 }
 h2
 {
-    color:darkolivegreen
+    color:darkolivegreen;
+    text-align: center;
 }
 strong
 {
     color: dodgerblue;
+}
+p.player
+{
+    color: dodgerblue;
+}
+p.link-hjx
+{
+    color: darkred;
+    text-align: center;
+}
+div.img
+{
+    text-align: center;
+}
+div.player
+{
+    text-align: center;
 }
